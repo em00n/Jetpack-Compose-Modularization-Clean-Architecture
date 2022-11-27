@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-compose:2.6.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6a810a90634ad94f128dd40ea0b5d910/transformed/jetified-lifecycle-runtime-compose-2.6.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a810a90634ad94f128dd40ea0b5d910/transformed/jetified-lifecycle-runtime-compose-2.6.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a810a90634ad94f128dd40ea0b5d910/transformed/jetified-lifecycle-runtime-compose-2.6.0-alpha01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-compose/2.6.0-alpha01/6fb45fc1344c9377520820d8879e9dab0a60e1d/lifecycle-runtime-compose-2.6.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
