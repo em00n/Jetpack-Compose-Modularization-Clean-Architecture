@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.android:facebook-gamingservices:14.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9dfe4a2e05101be3c650e3e8d66f4780/transformed/jetified-facebook-gamingservices-14.1.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9dfe4a2e05101be3c650e3e8d66f4780/transformed/jetified-facebook-gamingservices-14.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/39d64677f3d87e48f1bdeb7fefe08688/transformed/jetified-facebook-gamingservices-14.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/39d64677f3d87e48f1bdeb7fefe08688/transformed/jetified-facebook-gamingservices-14.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-gamingservices/14.1.1/172dfa63aa4a6125993f4c6fe32b7d9972b4c2a2/facebook-gamingservices-14.1.1-javadoc.jar!/" />
