@@ -3,9 +3,9 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 plugins {
+    kotlin("kapt")
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    kotlin("kapt")
     id ("dagger.hilt.android.plugin")
 }
 
