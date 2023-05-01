@@ -77,21 +77,22 @@ android {
 
 dependencies {
     addHiltDependencies()
+    addAndroidxCoreDependencies()
+    addAndroidxLifeCycleDependencies()
+
     addDataModule()
     addDomainModule()
     addRepositoriesModule()
     addProfileModule()
-    addAndroidxCoreDependencies()
-    addAndroidxLifeCycleDependencies()
     addRxjava3Dependencies()
     addRoomDependencies()
-    addPlayStoreAppUpdateDependencies()
-    addFirebaseDependencies()
-    addFacebookDependencies()
-    addLeakcanaryAndComposeDependencies()
-    addAndroidTestsDependencies()
-    addGoogleMapDependencies()
-    addPicassoDependencies()
+//    addPlayStoreAppUpdateDependencies()
+//    addFirebaseDependencies()
+//    addFacebookDependencies()
+//    addLeakcanaryAndComposeDependencies()
+//    addAndroidTestsDependencies()
+    //addGoogleMapDependencies()
+    //addPicassoDependencies()
 }
 kapt {
     correctErrorTypes = true
