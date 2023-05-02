@@ -79,20 +79,10 @@ dependencies {
     addHiltDependencies()
     addAndroidxCoreDependencies()
     addAndroidxLifeCycleDependencies()
-
     addDataModule()
     addDomainModule()
     addRepositoriesModule()
     addProfileModule()
-    addRxjava3Dependencies()
-    addRoomDependencies()
-//    addPlayStoreAppUpdateDependencies()
-//    addFirebaseDependencies()
-//    addFacebookDependencies()
-//    addLeakcanaryAndComposeDependencies()
-//    addAndroidTestsDependencies()
-    //addGoogleMapDependencies()
-    //addPicassoDependencies()
 }
 kapt {
     correctErrorTypes = true
